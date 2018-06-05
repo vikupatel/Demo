@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="QCAR_Dataset_config.xsd">
+  <TargetSet version="5.0" toolVersion="4.2.0">
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-04-14 16:03:33" name="DragonakDemoPattern1" targetId="2d795c8d6def4030a3e70cf78b648afa" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2016-04-14 14:02:30" name="DragonakDemo" targetId="eeae3c4c64ee489ca5f76bca9511b4fa" version="2.0" />
+    <ObjectTarget bbox="0.0 0.0 0.0 142.5 95.0 95.0" captureAppVersion="1.0.0" lastSaved="2015-12-22 15:32:36" name="thumpwumpObjectTest1" targetId="a076714c65e3451da2b103497698d051" version="2.0" />
+  </TargetSet>
+</QCARInfo>

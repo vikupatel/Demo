@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: e00493db1abd74313bd21e1e8e8772ef
+timeCreated: 1460545332
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: dragonakWing_0
+    21300002: dragonakWing_1
+    21300004: dragonakWing_2
+    21300006: dragonakWing_3
+    21300008: dragonakWing_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: dragonakWing_0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 918
+        width: 461
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: 110.5}
+        - {x: -229.5, y: 4.5}
+        - {x: -230.5, y: -11.5}
+        - {x: -230.5, y: -92.5}
+        - {x: -224.5, y: -110.5}
+        - {x: -160.5, y: -110.5}
+        - {x: -143.5, y: -107.5}
+        - {x: -129.5, y: -81.5}
+        - {x: 230.5, y: 96.5}
+        - {x: 230.5, y: 110.5}
+    - name: dragonakWing_1
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 722
+        width: 459
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.5, y: 116}
+        - {x: 229.5, y: 205}
+        - {x: 229.5, y: 216}
+        - {x: 166.5, y: 216}
+        - {x: -15.5, y: 149}
+        - {x: -150.5, y: 15}
+        - {x: -228.5, y: -128}
+        - {x: -229.5, y: -145}
+        - {x: -229.5, y: -216}
+        - {x: -225.5, y: -216}
+        - {x: -218.5, y: -208}
+        - {x: -122.5, y: -108}
+        - {x: -42.5, y: 10}
+    - name: dragonakWing_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 384
+        width: 687
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: -129}
+        - {x: 100.5, y: -101}
+        - {x: 168.5, y: -63}
+        - {x: 221.5, y: -24}
+        - {x: 250.5, y: 0}
+        - {x: 291.5, y: 42}
+        - {x: 340.5, y: 103}
+        - {x: 343.5, y: 110}
+        - {x: 343.5, y: 120}
+        - {x: 341.5, y: 120}
+        - {x: 300.5, y: 87}
+        - {x: 270.5, y: 71}
+        - {x: 252.5, y: 64}
+        - {x: 228.5, y: 52}
+        - {x: 209.5, y: 48}
+        - {x: 155.5, y: 37}
+        - {x: 118.5, y: 34}
+        - {x: 111.5, y: 37}
+        - {x: 79.5, y: 42}
+        - {x: 48.5, y: 51}
+        - {x: 9.5, y: 71}
+        - {x: -5.5, y: 88}
+        - {x: -22.5, y: 127}
+        - {x: -17.5, y: 154}
+        - {x: -25.5, y: 158}
+        - {x: -36.5, y: 158}
+        - {x: -65.5, y: 146}
+        - {x: -124.5, y: 107}
+        - {x: -180.5, y: 62}
+        - {x: -236.5, y: 14}
+        - {x: -264.5, y: -15}
+        - {x: -288.5, y: -40}
+        - {x: -321.5, y: -81}
+        - {x: -343.5, y: -116}
+        - {x: -343.5, y: -134}
+        - {x: -286.5, y: -153}
+        - {x: -224.5, y: -158}
+        - {x: -130.5, y: -158}
+        - {x: -112.5, y: -156}
+        - {x: -36.5, y: -146}
+        - {x: 1.5, y: -136}
+    - name: dragonakWing_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 18
+        width: 191
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -95.5, y: -10}
+        - {x: -95.5, y: -44}
+        - {x: -75.5, y: -69}
+        - {x: -40.5, y: -69}
+        - {x: 95.5, y: 66}
+        - {x: 95.5, y: 69}
+        - {x: 79.5, y: 69}
+        - {x: 18.5, y: 56}
+    - name: dragonakWing_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 34
+        width: 740
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 370, y: 146}
+        - {x: 370, y: 163}
+        - {x: 366, y: 163}
+        - {x: 349, y: 148}
+        - {x: 12, y: -86}
+        - {x: -329, y: -78}
+        - {x: -362, y: -112}
+        - {x: -370, y: -128}
+        - {x: -370, y: -146}
+        - {x: -324, y: -163}
+        - {x: -45, y: -163}
+        - {x: 62, y: -129}
+        - {x: 242, y: -30}
+        - {x: 333, y: 61}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{587599DB-97C6-166A-3499-47F98743DDD8}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Games/SwampFishing/Model/GoodItems.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Games/SwampFishing/Model/Player/Player.cs" Line="49" Column="28" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/Model/Player/PlayerHook.cs" Line="100" Column="9" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/Manager/CollectibleSpawner.cs" Line="161" Column="20" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/UI/ViewController.cs" Line="29" Column="19" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/Manager/Timer.cs" Line="106" Column="9" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/UI/ViewGameOver.cs" Line="65" Column="2" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/Manager/Level.cs" Line="11" Column="4" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/Model/GoodItems.cs" Line="25" Column="3" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/Model/Collectibles.cs" Line="70" Column="5" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/Model/Treasure.cs" Line="6" Column="14" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/Model/FloatingCollectibles.cs" Line="84" Column="4" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/Model/BadItems.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/Model/SpecialItem.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Games/SwampFishing/UI/CableDrawer.cs" Line="16" Column="4" />
+      <File FileName="Assets/Scripts/Games/DragonSwoop/Model/CameraMove.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Managers/AppManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Model/CatalogOrble.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
